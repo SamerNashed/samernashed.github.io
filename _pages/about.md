@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctural Fellow in the [Montreal Robotics and Embodied AI Laboratory](https://montrealrobotics.ca/) (REAL) at the [Université de Montréal](https://www.umontreal.ca/) and the [Mila-Quebec Artificial Intelligence Institute](https://mila.quebec/en/). I'm interested / work on xyz. most recently...
+I am a Postdoctural Fellow in the [Montreal Robotics and Embodied AI Laboratory](https://montrealrobotics.ca/) (REAL) at the [Université de Montréal](https://www.umontreal.ca/) and the [Mila-Quebec Artificial Intelligence Institute](https://mila.quebec/en/), where I work with [Liam Paull](https://liampaull.ca/). I'm interested in xyz. most recently...
 
 Before joining REAL, I completed my Ph.D. in computer science at the [University of Massachusetts Amherst](https://www.umass.edu/), where I found a home in both the [Laboratory for Perceptual Robotics](https://www-robotics.cs.umass.edu/) and the [Resource Bounded Reasoning Laboratory](https://groups.cs.umass.edu/shlomo/research/), directed by [Rod Grupen](https://www-robotics.cs.umass.edu/~grupen/) and [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/), respectively, who also co-chaired my thesis committee. someting about thesis? I earned a B.A. in physics and computer science from [Swarthmore College](https://www.swarthmore.edu/).
 
@@ -59,6 +59,10 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 **Nov. 2020:** My [survey]() on loop closure and xxxyyyzzz to the Workshop on Machine Learning Retrospectives, Surveys & Meta-Analyses at NeurIPS 2020!
 
 **July 2020:** l2v to IROS 2020!
+
+<!--space grant-->
+
+<!--dissertation award-->
 
 <!--3 internships-->
 
