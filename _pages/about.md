@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "About"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,35 +8,83 @@ redirect_from:
 ---
 
 
-I am a senior researcher in the [Fairness, Accountability, Transparency, and Ethics in AI (FATE)](https://www.microsoft.com/en-us/research/theme/fate/) group at [Microsoft Research Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/). I'm broadly interested in examining the social and ethical implications of natural language processing technologies; I develop approaches for anticipating, measuring, and mitigating harms arising from language technologies, focusing on the complexities of language and language technologies in their social contexts, and on supporting NLP practitioners in their ethical work. I've also worked on using NLP approaches to examine language variation and change (computational sociolinguistics), for example developing models to identify language variation on social media.
+I am a Postdoctural Fellow in the [Montreal Robotics and Embodied AI Laboratory](https://montrealrobotics.ca/) (REAL) at the [Université de Montréal](https://www.umontreal.ca/) and the [Mila-Quebec Artificial Intelligence Institute](https://mila.quebec/en/). I'm interested / work on xyz. most recently...
 
-<!-- I've worked on developing models to identify language variation on social media, on applying lessons from sociolinguistics and linguistic anthropology to conceptualizing harms arising from NLP systems, and on using the language of measurement modeling to rigorously analyze approaches to quantifying bias in NLP. -->
-<!-- , drawing on insights from fields such as sociolinguistics, linguistic anthropology, and education,  including people's lived experiences with these technologies, -->
+Before joining REAL, I completed my Ph.D. in computer science at the [University of Massachusetts Amherst](https://www.umass.edu/), where I found a home in both the [Laboratory for Perceptual Robotics](https://www-robotics.cs.umass.edu/) and the [Resource Bounded Reasoning Laboratory](https://groups.cs.umass.edu/shlomo/research/), directed by [Rod Grupen](https://www-robotics.cs.umass.edu/~grupen/) and [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/), respectively, who also co-chaired my thesis committee. someting about thesis? I earned a B.A. in physics and computer science from [Swarthmore College](https://www.swarthmore.edu/).
 
-I was previously a postdoctoral researcher at MSR Montréal. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the [Statistical Social Language Analysis Lab](http://slanglab.cs.umass.edu/) under the guidance of [Brendan O'Connor](http://brenocon.com/), where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at [Microsoft Research New York](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/) in summer 2019, where I had the fortune of working with Solon Barocas, Hal Daumé III, and Hanna Wallach.
+## News
 
-## recent news
+**Jan. 2024:** Our [paper]() proposing Multi-SLAM systems was accepted to ICRA 2024!
 
-**June 2022:** I gave keynotes at the [Second Workshop on Language Technology for Equality, Diversity, and Inclusion](https://sites.google.com/view/lt-edi-2022/home) and the [1st Workshop on Perspectivist Approaches to NLP](https://nlperspectives.di.unito.it/).
+**Jan. 2024:** Our [paper]() on Ethically Compliant xxxxxx was accepted to ICRA 2024!
 
-**May 2022:** Delighted to be continuing at MSR Montréal as a senior researcher!
+**Nov. 2023:** Our [paper]() on Q-value Augmentation for Meta-Reinforcement Learning was accepted to the GenPlan workshop at Neurips and will be highlighted as a talk!
 
-**May 2022:** Honored to have served as ethics co-chair for [ACL 2022](https://www.2022.aclweb.org/).
+**Nov. 2023:** I will be joining [REAL](https://montrealrobotics.ca/) as a posdoctural fellow!
 
-**May 2022:** Our [paper](https://aclanthology.org/2022.naacl-main.24/) exploring NLG practitioners' evaluation assumptions and practices, led by Kaitlyn Zhou, has been accepted to NAACL 2022.
+**Nov. 2023:** I defended my [thesis]()!
 
-**May 2022:** Q. Vera Liao, Alexandra Olteanu, and I co-organized a CHI panel: ["Responsible Language Technologies: Foreseeing and Mitigating Harms"](https://dl.acm.org/doi/abs/10.1145/3491101.3516502).
+**July 2023:** I gave a talk on Achieving Robust SLAM Systems via Integration throughout the Robotics Life Cycle at REAL
 
-**Dec. 2021:** Honored to have been named one of the [100 Brilliant Women in AI Ethics](https://womeninaiethics.org/the-list/of-2022/) for 2022.
+**July 2023:** I gave a talk on the Limits, Lessons, and Opportunities of Fairness and Sequential Decision Making at the [EQUAL Lab]().
 
-**Dec. 2021:** The [second edition of our workshop bridging HCI and NLP](https://sites.google.com/view/hciandnlp/home) will take place at NAACL (co-organized with Hal Daumé III, Michael Madaio, Ani Nenkova, Brendan O'Connor, Hanna Wallach, and Qian Yang).
+**July 2023:** Our [paper]() on Formal Composition of Robotic Systems as Contract Programs was accepted to IROS 2023!
 
-**May 2021:** Two papers accepted to ACL 2021: a [paper](https://aclanthology.org/2021.acl-long.81/) investigating four benchmark datasets for measuring stereotyping, and a [paper](https://aclanthology.org/2021.acl-long.149/) examining race, racism, and anti-racism in NLP.
+**June 2023:** I presented recent work on Causal Explanations for Sequential Decision Making under Uncertainty at the [7th Annual Center for Human-Compatible AI Workshop]().
 
-**Apr. 2021:** We co-organized a [workshop](https://sites.google.com/view/hciandnlp-2021) at the intersection of human-computer interaction and natural language processing (with Michael Madaio, Brendan O'Connor, Hanna Wallach, and Qian Yang).
+**July 2022:** meta pamdp to IROS 2022!
 
-**Oct. 2020:** I started a postdoc at Microsoft Research!
+**Apr. 2022:** I gave a talk on Generating Explanans for Markov Decision Processes at the General Motors Forum on Explainable Artificial Intelligence.
 
-**Sept. 2020:** I defended my thesis virtually!
+**Mar. 2022:** One of my MS student mentees, [Chhandak Bagchi](https://people.umass.edu/cbagchi/), has been accepted into the PhD program at UMass Amherst! 
 
-**Apr. 2020:** Our [paper](https://www.aclweb.org/anthology/2020.acl-main.485.pdf) examining work on bias in NLP has been accepted to ACL 2020.
+**Feb. 2022:** param  tune anytime to ICAPS 2022
+
+**Oct. 2021: Our workshop at [IROS 2021] on Building and Evaluating Ethical Robotic Systems was a success! Thank you to all of our wonderful speakers and contributors!
+
+**July 2021:** Our [survey]() on opponent modeling was accepted for publication in the [Journal of Artificial Intelligence Research]()  
+
+**July 2021:** Our [paper] on Robust Rank-Deficient SLAM was accepted to IROS 2021!
+
+**May 2021:** Our workshop on Building and Evaluating Ethical Robotic Systems was accepted and will be held at IROS 2021!
+
+**Mar. 2021:** Our [paper]() on Ethically Compliant Planning in Moral Communities was accepted to AIES 2021!
+
+**Feb. 2021:** Our [paper]() on Ethically Compliant Sequential Decision Making was recognized by a Distinguished Paper Award at AAAI!
+
+**Jan. 2021:** Out paper on Solving MDPs using Partial Abstractions was accepted to ICRA 2021!
+
+**Dec. 2020:** Our [paper]() on Ethically Compliant Sequential Decision Making was accepted to AAAI 2021!
+
+**Nov. 2020:** My [survey]() on loop closure and xxxyyyzzz to the Workshop on Machine Learning Retrospectives, Surveys & Meta-Analyses at NeurIPS 2020!
+
+**July 2020:** l2v to IROS 2020!
+
+<!--3 internships-->
+
+<!--passed portfolio-->
+
+<!--earned MS degree-->
+
+<!--passed proposal-->
+
+<!--expmdp aamas / ws-->
+
+<!--ECAS at ECAI ext abs-->
+
+<!--ECAS at IJCAI ws-->
+
+<!--3 patents-->
+
+<!--hitl-->
+<!--hitl SLAM ICAPS ws-->
+
+<!--lutu-->
+
+<!--minutebots tdp 2018-->
+<!--minutebots tdp 2017-->
+
+<!--ltvm-->
+<!--ltvm ijcai-->
+
+
