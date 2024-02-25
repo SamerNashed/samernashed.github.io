@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    :
 title_separator          :
-name                     : "Su Lin Blodgett"
+name                     : "Samer Nashed"
 description              :
-url                      : "https://sblodgett.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://samernashed.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sblodgett/sblodgett.github.io"
+repository               : "samernashed/samernashed.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Su Lin Blodgett"
+  name: "Samer Nashed"
   avatar: "headshot.jpg"
-  # bio: "Email: sulin [dot] blodgett [at] microsoft [dot] com"
-  email: " sulin [dot] blodgett [at] microsoft [dot] com"
+  # bio: "Email: samer [dot] nashed [at] mila [dot] quebec"
+  email: " samer [dot] nashed [at] mila [dot] quebec"
   semanticscholar: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
   twitter: "sulin_blodgett"
   # links:
