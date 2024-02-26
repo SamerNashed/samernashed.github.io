@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/JAIR2021_OppMod.pdf
+permalink: /files/SamerNashedCV.pdf
 author_profile: true
 redirect_from:
   - /resume
