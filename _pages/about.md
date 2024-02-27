@@ -16,7 +16,7 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **Jan. 2024:** Our [paper]() proposing Multi-SLAM systems was accepted to ICRA 2024!
 
-**Jan. 2024:** Our [paper]() on Ethically Compliant xxxxxx was accepted to ICRA 2024!
+**Jan. 2024:** Our [paper]() on Ethically Compliant Sequential Decision Making under Partial Observability was accepted to ICRA 2024!
 
 **Jan. 2024:** I was awarded a US patent along with my collaborators at Amazon on physical models for hierarchical clustering and symbolic inference!
 
@@ -72,21 +72,21 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **May 2020:** I've been awarded a Massachusetts Space Grant Consortium Fellowship!
 
-**Aug. 2019:** I will be staying on at [Amazon Lab126]() until the new year. Very exited to continue my project!
+**Aug. 2019:** I will be staying on at [Amazon Lab126](https://www.amazon.science/tag/amazon-lab126) through the fall. Very exited to continue my project!
 
 **June 2019:** I've offically received my Masters degree in computer science!
 
 **May 2019:** I've passed my portfolio (qualifications) and I am officially a PhD Candidate!
 
-**Feb. 2019:** I'll be headed to Sunnyvale California this summer to work at [Amazon Lab126]()!
+**Feb. 2019:** I'll be headed to Sunnyvale California this summer to work at [Amazon Lab126](https://www.amazon.science/tag/amazon-lab126)!
 
-**Feb. 2018:** I'll be headed to North Reading Massachusetts this summer to work at [Amazon Robotics]()!
+**Feb. 2018:** I'll be headed to North Reading Massachusetts this summer to work at [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)!
 
-**Jan. 2018:** Our [paper]() on lane localization for autonomous vehicles was accepted to ICRA 2018!
+**Jan. 2018:** Our [paper](https://samernashed.github.io/ICRA2018_LuTU.pdf) on lane localization for autonomous vehicles was accepted to ICRA 2018!
 
-**Dec. 2017:** Our [paper]() on Human-in-the-Loop SLAM has been accepted to AAAI 2018!
+**Dec. 2017:** Our [paper](https://samernashed.github.io/AAAI2018_HiTL_SLAM.pdf) on Human-in-the-Loop SLAM has been accepted to AAAI 2018!
 
-**Feb. 2017:** I'll be headed to Sunnyvale California this summer to work at [Nissan Research Center]() on their autonomous vehicle program!
+**Feb. 2017:** I'll be headed to Sunnyvale California this summer to work at [Nissan Research Center](https://natcsv.com/) on their autonomous vehicle program!
 
 
 <!--expmdp aamas / ws-->
