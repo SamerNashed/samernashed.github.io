@@ -28,11 +28,11 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **July 2023:** I gave a talk on Achieving Robust SLAM Systems via Integration throughout the Robotics Life Cycle at REAL
 
-**July 2023:** I gave a talk on the Limits, Lessons, and Opportunities of Fairness and Sequential Decision Making at the [EQUAL Lab]().
+**July 2023:** I gave a talk on the Limits, Lessons, and Opportunities of Fairness and Sequential Decision Making at the [EQUAL Lab](https://gfarnadi.github.io/student.html).
 
-**July 2023:** Our [paper]() on Formal Composition of Robotic Systems as Contract Programs was accepted to IROS 2023!
+**July 2023:** Our [paper](https://samernashed.github.io/files/IROS2023_AlgComp.pdf) on Formal Composition of Robotic Systems as Contract Programs was accepted to IROS 2023!
 
-**June 2023:** I presented recent work on Causal Explanations for Sequential Decision Making under Uncertainty at the [7th Annual Center for Human-Compatible AI Workshop]().
+**June 2023:** I presented recent work on Causal Explanations for Sequential Decision Making under Uncertainty at the [7th Annual Center for Human-Compatible AI Workshop](https://humancompatible.ai/news/2023/06/20/seven-annual-chai-workshop/#:~:text=From%20the%2016th%20to%20the,during%20the%203%20day%20event.).
 
 **Mar. 2023:** thesis proposal defense
 
@@ -40,35 +40,35 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **Nov. 2022:** I was awarded a US patent along with my collaborators at Amazon Robotics on motion planning in dynamic enironments!
 
-**July 2022:** Our [paper]() on learning to form partial abstractions of MDPs was accepted to IROS 2022!
+**July 2022:** Our [paper](https://samernashed.github.io/files/IROS2022_Meta_PAMDP.pdf) on learning to form partial abstractions of MDPs was accepted to IROS 2022!
 
 **Apr. 2022:** I gave a talk on Generating Explanans for Markov Decision Processes at the General Motors Forum on Explainable Artificial Intelligence.
 
 **Mar. 2022:** One of my MS student mentees, [Chhandak Bagchi](https://people.umass.edu/cbagchi/), has been accepted into the PhD program at UMass Amherst! 
 
-**Feb. 2022:** Our [paper]() on learning to tune parameters in anytime algorithms was accepted to ICAPS 2022!
+**Feb. 2022:** Our [paper](https://samernashed.github.io/files/ICAPS2022_ParamTune.pdf) on learning to tune parameters in anytime algorithms was accepted to ICAPS 2022!
 
-**Oct. 2021:** Our workshop at [IROS 2021] on Building and Evaluating Ethical Robotic Systems was a success! Thank you to all of our wonderful speakers and contributors!
+**Oct. 2021:** Our workshop at IROS 2021 on Building and Evaluating Ethical Robotic Systems was a success! Thank you to all of our wonderful speakers and contributors!
 
 **Sep. 2021:** I was awarded a US patent along with my collaborators at Nissan on localization for autonomous vehicles!
 
-**July 2021:** Our [survey]() on opponent modeling was accepted for publication in the [Journal of Artificial Intelligence Research]()  
+**July 2021:** Our [survey](https://samernashed.github.io/files/JAIR2022_OppMod.pdf) on opponent modeling was accepted for publication in the [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair)  
 
-**July 2021:** Our [paper] on Robust Rank-Deficient SLAM was accepted to IROS 2021!
+**July 2021:** Our [paper](https://samernashed.github.io/files/IROS2021_RDSLAM.pdf) on Robust Rank-Deficient SLAM was accepted to IROS 2021!
 
 **May 2021:** Our workshop on Building and Evaluating Ethical Robotic Systems was accepted and will be held at IROS 2021!
 
-**Mar. 2021:** Our [paper]() on Ethically Compliant Planning in Moral Communities was accepted to AIES 2021!
+**Mar. 2021:** Our [paper](https://samernashed.github.io/files/AIES2021_ECAS_MC.pdf) on Ethically Compliant Planning in Moral Communities was accepted to AIES 2021!
 
-**Feb. 2021:** Our [paper]() on Ethically Compliant Sequential Decision Making was recognized by a Distinguished Paper Award at AAAI!
+**Feb. 2021:** Our [paper](https://samernashed.github.io/files/AAAI2021_ECAS.pdf) on Ethically Compliant Sequential Decision Making was recognized by a Distinguished Paper Award at AAAI!
 
-**Jan. 2021:** Our [paper]() on Solving MDPs using Partial Abstractions was accepted to ICRA 2021!
+**Jan. 2021:** Our [paper](https://samernashed.github.io/files/ICRA2021_PAMDP.pdf) on Solving MDPs using Partial Abstractions was accepted to ICRA 2021!
 
-**Dec. 2020:** Our [paper]() on Ethically Compliant Sequential Decision Making was accepted to AAAI 2021!
+**Dec. 2020:** Our [paper](https://samernashed.github.io/files/AAAI2021_ECAS.pdf) on Ethically Compliant Sequential Decision Making was accepted to AAAI 2021!
 
-**Nov. 2020:** My [survey]() on loop closure detection and its potential as a good task for evaluating intelligent agents was accepted to the Workshop on Machine Learning Retrospectives, Surveys & Meta-Analyses at NeurIPS 2020!
+**Nov. 2020:** My [survey](https://samernashed.github.io/files/) on loop closure detection and its potential as a good task for evaluating intelligent agents was accepted to the Workshop on Machine Learning Retrospectives, Surveys & Meta-Analyses at NeurIPS 2020!
 
-**July 2020:** My [paper]() on learning embedded representations for efficient storage and query support for robotic perception data was accepted to IROS 2020!
+**July 2020:** My [paper](https://samernashed.github.io/files/IROS2020_L2V.pdf) on learning embedded representations for efficient storage and query support for robotic perception data was accepted to IROS 2020!
 
 **May 2020:** I've been awarded a Massachusetts Space Grant Consortium Fellowship!
 
@@ -82,9 +82,9 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **Feb. 2018:** I'll be headed to North Reading Massachusetts this summer to work at [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)!
 
-**Jan. 2018:** Our [paper](https://samernashed.github.io/ICRA2018_LuTU.pdf) on lane localization for autonomous vehicles was accepted to ICRA 2018!
+**Jan. 2018:** Our [paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf) on lane localization for autonomous vehicles was accepted to ICRA 2018!
 
-**Dec. 2017:** Our [paper](https://samernashed.github.io/AAAI2018_HiTL_SLAM.pdf) on Human-in-the-Loop SLAM has been accepted to AAAI 2018!
+**Dec. 2017:** Our [paper](https://samernashed.github.io/files/AAAI2018_HiTL_SLAM.pdf) on Human-in-the-Loop SLAM has been accepted to AAAI 2018!
 
 **Feb. 2017:** I'll be headed to Sunnyvale California this summer to work at [Nissan Research Center](https://natcsv.com/) on their autonomous vehicle program!
 
