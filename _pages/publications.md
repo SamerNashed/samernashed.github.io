@@ -19,7 +19,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ## 2022
 
-*title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
+<img align="left" width="100" height="100" src="https://samernashed.github.io/images/LuTU.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
 
 ## 2021
 
@@ -39,3 +39,18 @@ A more complete list of peer-reviewed publications is available on my [CV](https
   {% include archive-single.html %}
 {% endfor %}
  -->
+
+<!--
+[Justin Svegliato]()
+[Shlomo Zilberstein]()
+[Rod Grupen]()
+[Abhinav Bhatia]()
+[Jong Jin Park]()
+[Joseph Durham]()
+[Joydeep Biswas]()
+[David Ilstrup]()
+[Connor Basich]()
+[Matteo Brucato]()
+[Saad Mahmud]()
+[Claudia Goldman]()
+-->
