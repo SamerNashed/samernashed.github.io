@@ -14,17 +14,17 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 ## News
 
-**Jan. 2024:** Our [paper]() proposing Multi-SLAM systems was accepted to ICRA 2024!
+**Jan. 2024:** Our paper proposing Multi-SLAM systems was accepted to ICRA 2024!
 
-**Jan. 2024:** Our [paper]() on Ethically Compliant Sequential Decision Making under Partial Observability was accepted to ICRA 2024!
+**Jan. 2024:** Our paper on Ethically Compliant Sequential Decision Making under Partial Observability was accepted to ICRA 2024!
 
 **Jan. 2024:** I was awarded a US patent along with my collaborators at Amazon on physical models for hierarchical clustering and symbolic inference!
 
-**Nov. 2023:** Our [paper]() on Q-value Augmentation for Meta-Reinforcement Learning was accepted to the GenPlan workshop at Neurips and will be highlighted as a talk!
+**Nov. 2023:** Our paper on Q-value Augmentation for Meta-Reinforcement Learning was accepted to the GenPlan workshop at Neurips and will be highlighted as a talk!
 
 **Nov. 2023:** I will be joining [REAL](https://montrealrobotics.ca/) as a posdoctural fellow!
 
-**Nov. 2023:** I defended my [thesis]()!
+**Nov. 2023:** I defended my [thesis](https://samernashed.github.io/files/SamerNashedThesis.pdf)!
 
 **July 2023:** I gave a talk on Achieving Robust SLAM Systems via Integration throughout the Robotics Life Cycle at REAL
 
@@ -34,7 +34,7 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **June 2023:** I presented recent work on Causal Explanations for Sequential Decision Making under Uncertainty at the [7th Annual Center for Human-Compatible AI Workshop](https://humancompatible.ai/news/2023/06/20/seven-annual-chai-workshop/#:~:text=From%20the%2016th%20to%20the,during%20the%203%20day%20event.).
 
-**Mar. 2023:** thesis proposal defense
+**Mar. 2023:** I successfully defended my thesis proposal! More work to come on Multi-SLAM systems for fault tolerant localization and mapping!
 
 **Jan. 2023:** I've been awarded a Dissertation Writing Fellowship from the College of Information and Computer Sciences at UMass! 
 
@@ -66,7 +66,7 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **Dec. 2020:** Our [paper](https://samernashed.github.io/files/AAAI2021_ECAS.pdf) on Ethically Compliant Sequential Decision Making was accepted to AAAI 2021!
 
-**Nov. 2020:** My [survey](https://samernashed.github.io/files/) on loop closure detection and its potential as a good task for evaluating intelligent agents was accepted to the Workshop on Machine Learning Retrospectives, Surveys & Meta-Analyses at NeurIPS 2020!
+**Nov. 2020:** My [survey](https://samernashed.github.io/files/NeurIPS_2020_WS.pdf) on loop closure detection and its potential as a good task for evaluating intelligent agents was accepted to the Workshop on Machine Learning Retrospectives, Surveys & Meta-Analyses at NeurIPS 2020!
 
 **July 2020:** My [paper](https://samernashed.github.io/files/IROS2020_L2V.pdf) on learning embedded representations for efficient storage and query support for robotic perception data was accepted to IROS 2020!
 
@@ -88,6 +88,7 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 **Feb. 2017:** I'll be headed to Sunnyvale California this summer to work at [Nissan Research Center](https://natcsv.com/) on their autonomous vehicle program!
 
+**July 2016**: Our [paper](https://samernashed.github.io/files/IROS2016_LTVM.pdf) on long-term vector mapping was accepted to IROS 2016!
 
 <!--expmdp aamas / ws-->
 
@@ -100,7 +101,6 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 <!--minutebots tdp 2018-->
 <!--minutebots tdp 2017-->
 
-<!--ltvm-->
 <!--ltvm ijcai-->
 
 
