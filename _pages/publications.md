@@ -54,21 +54,21 @@ Venue. [[paper](https://samernashed.github.io/files/.pdf)]
 
 ## 2020
 
-<img align="left" width="200" src="https://samernashed.github.io/images/L2V.png"> *title.* **Samer B. Nashed**, [other author](). IROS 2020. [[paper](https://samernashed.github.io/files/.pdf)]
+<img align="left" width="200" src="https://samernashed.github.io/images/L2V.png">&nbsp;&nbsp;&nbsp;&nbsp;*Laser2Vec: Similarity-based Retrieval for Robotic Perception Data.*
+&nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**.
+&nbsp;&nbsp;&nbsp;&nbsp;IROS 2020. [[paper](https://samernashed.github.io/files/IROS2020_L2V.pdf)]
 
 ## 2018
 
-<img align="left" width="200" src="https://samernashed.github.io/images/LuTU.png"> *Localization under Topological Uncertainty for Lane Identification of Autonomous Vehicles.* 
+<img align="left" width="200" src="https://samernashed.github.io/images/LuTU.png">&nbsp;&nbsp;&nbsp;&nbsp;*Localization under Topological Uncertainty for Lane Identification of Autonomous Vehicles.* 
+&nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [David M. Ilstrup](), [Joydeep Biswas](). 
+&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2018. [[paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf)]<br>
 
-**Samer B. Nashed**, [David M. Ilstrup](), [Joydeep Biswas](). 
+***
 
-ICRA 2018. [[paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf)]<br>
-
-<img align="left" width="200" src="https://samernashed.github.io/images/HitL.png">
-
-*Human-in-the-Loop SLAM.* **Samer B. Nashed**, [Joydeep Biswas](). 
-
-AAAI 2018. [[paper](https://samernashed.github.io/files/AAAI2018_HiTL_SLAM.pdf)]
+<img align="left" width="200" src="https://samernashed.github.io/images/HitL.png">&nbsp;&nbsp;&nbsp;&nbsp;*Human-in-the-Loop SLAM.*
+&nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Joydeep Biswas]().
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI 2018. [[paper](https://samernashed.github.io/files/AAAI2018_HiTL_SLAM.pdf)]
 
 ## 2016
 
