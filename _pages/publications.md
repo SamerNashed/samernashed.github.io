@@ -36,7 +36,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 <img align="left" width="200" src="https://samernashed.github.io/images/RDSLAM.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
 
-<img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png">        *title.* 
+<img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png"> *title.* 
 
 **Samer B. Nashed**, [other author](). 
 
