@@ -22,7 +22,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 ***
 
 <img align="left" width="200" src="https://samernashed.github.io/images/HitL.png">&nbsp;&nbsp;&nbsp;&nbsp;*Ethically Compliant Autonomous Systems under Partial Observability.*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Qingyuan Lu](), [Justin Svegliato](), **Samer B. Nashed, [Shlomo Zilberstein](), and [Stuart Russell]().<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Qingyuan Lu](), [Justin Svegliato](), **Samer B. Nashed**, [Shlomo Zilberstein](), and [Stuart Russell]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/.pdf)]<br>
 
 ## 2023
@@ -33,9 +33,13 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ## 2022
 
-<img align="left" width="200" src="https://samernashed.github.io/images/meta_PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/meta_PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with &nbsp;&nbsp;&nbsp;&nbsp;Deep Reinforcement Learning.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, Justin Svegliato$^*$, Abhinav Bhatia, Stuart Russell and Shlomo Zilberstein.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/IROS2022_Meta_PAMDP.pdf)]<br>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ***
 
@@ -54,6 +58,10 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 <img align="left" width="200" src="https://samernashed.github.io/images/RDSLAM.png">&nbsp;&nbsp;&nbsp;&nbsp;*Robust Rank Deficient SLAM.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Jong Jin Park](), [Roger Webster](), [Joseph W. Durham]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;IROS 2021. [[paper](https://samernashed.github.io/files/IROS2021_RDSLAM.pdf)]<br>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ***
 
@@ -78,6 +86,10 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 <img align="left" width="200" src="https://samernashed.github.io/images/L2V.png">&nbsp;&nbsp;&nbsp;&nbsp;*Laser2Vec: Similarity-based Retrieval for Robotic Perception Data.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;IROS 2020. [[paper](https://samernashed.github.io/files/IROS2020_L2V.pdf)]<br>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ## 2018
 
