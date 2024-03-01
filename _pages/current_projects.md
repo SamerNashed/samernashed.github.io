@@ -7,15 +7,17 @@ author_profile: true
 
 ### Causal Explanations for MDPs
 
-<img align="left" width="200" src="https://samernashed.github.io/images/expmdp.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at JAIR, proposes new methods for explaining MDP policies based on causal analysis using structural causal models. User studies show that explanations generated using this causal framework are preferred overwhelmingly to those generated via the current state-of-the-art.
+<img align="left" width="200" src="https://samernashed.github.io/images/expmdp.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at JAIR, proposes new methods for explaining MDP policies &nbsp;&nbsp;&nbsp;&nbsp;based on causal analysis using structural causal models. User studies show that explanations &nbsp;&nbsp;&nbsp;&nbsp;generated using this causal framework are preferred overwhelmingly to those generated via the current state-of-the-art.
 
 ### Q-value Augmentation for Meta-Reinforcement Learning
 
-<img align="left" width="200" src="https://samernashed.github.io/images/rl3.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at IJCAI, proposes augmenting typical trajectory histories fed to black-box meta-RL agents with additional object-level Q-estimates. This augmentation is shown to significantly improve meta-learner performance on long-horizon and out of distribution tasks.
+<img align="left" width="200" src="https://samernashed.github.io/images/rl3.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at IJCAI, proposes augmenting typical trajectory histories &nbsp;&nbsp;&nbsp;&nbsp;fed to black-box meta-RL agents with additional object-level Q-estimates. This augmentation is &nbsp;&nbsp;&nbsp;&nbsp;shown to significantly improve meta-learner performance on long-horizon and out of distribution tasks.
 
 ### Risk-informed Policy Learning
 
-<img align="left" width="200" src="https://samernashed.github.io/images/ripl.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at ICML, proposes augmenting the input to RL agents with a learned risk model. This risk model predicts, for a given state, a distribution over time to failure. We find RL agents additionally conditioned on this model learn significantly faster and with equal or fewer safety violations than those without. Moreover, this model can also be transferred between agents learning different tasks in the same environment.
+<img align="left" width="200" src="https://samernashed.github.io/images/ripl.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at ICML, proposes augmenting the input to RL agents with a &nbsp;&nbsp;&nbsp;&nbsp;learned risk model. This risk model predicts, for a given state, a distribution over time to failure. &nbsp;&nbsp;&nbsp;&nbsp;We find RL agents additionally conditioned on this model learn significantly faster and with equal &nbsp;&nbsp;&nbsp;&nbsp;or fewer safety violations than those without. Moreover, this model can also be transferred &nbsp;&nbsp;&nbsp;&nbsp;between agents learning different tasks in the same environment.
+
+<p>&nbsp;</p>
 
 ### Fairness and Sequential Decision Making
 
