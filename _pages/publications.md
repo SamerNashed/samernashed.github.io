@@ -34,13 +34,21 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ## 2021
 
-<p><img align="left" width="200" src="https://samernashed.github.io/images/RDSLAM.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]</p>
+<img align="left" width="200" src="https://samernashed.github.io/images/RDSLAM.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
 
-<p><img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]</p>
+***
 
-<p><img align="left" width="200" src="https://samernashed.github.io/images/ECAS1.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]</p>
+<img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
 
-<p><img align="left" width="200" src="https://samernashed.github.io/images/ECAS2.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
+***
+
+<img align="left" width="200" src="https://samernashed.github.io/images/ECAS1.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
+
+***
+
+<img align="left" width="200" src="https://samernashed.github.io/images/ECAS2.png"> *title.* **Samer B. Nashed**, [other author](). AAAI 2021. [[paper](https://samernashed.github.io/files/.pdf)]
+
+***
 
 ## 2020
 
