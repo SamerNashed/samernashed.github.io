@@ -36,10 +36,6 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 <img align="left" width="200" src="https://samernashed.github.io/images/RDSLAM.png"> *title.* **Samer B. Nashed**, [other author](). Venue. [[paper](https://samernashed.github.io/files/.pdf)]
 
-<!--
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> <li> <div class="row align-items-center"> <div class="col-sm preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/iml.png"></div> <div class="col-sm"></div> <div id="iml" class="col-sm-8"> <div class="title">iML: Efficient 3D Instance Mapping and Localization</div> <div class="author"> George Tang, Antonio Torralba, and <em>Krishna Murthy Jatavallabhula</em> </div> <div class="periodical"> <em>ICRA</em> 2024 </div>
--->
-
 <img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png">        *title.* 
 
 **Samer B. Nashed**, [other author](). 
