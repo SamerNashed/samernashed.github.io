@@ -48,7 +48,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ## 2018
 
-<img align="left" width="200" src="https://samernashed.github.io/images/LuTU.png"> *Localization under Topological Uncertainty for Lane Identification of Autonomous Vehicles.* **Samer B. Nashed**, [David M. Ilstrup](), [Joydeep Biswas](). ICRA 2018. [[paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf)]
+<img align="left" width="200" src="https://samernashed.github.io/images/LuTU.png"> *Localization under Topological Uncertainty for Lane Identification of Autonomous Vehicles.* **Samer B. Nashed**, [David M. Ilstrup](), [Joydeep Biswas](). ICRA 2018. [[paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf)] <br>
 
 <img align="left" width="200" src="https://samernashed.github.io/images/HitL.png"> *Human-in-the-Loop SLAM.* **Samer B. Nashed**, [Joydeep Biswas](). AAAI 2018. [[paper](https://samernashed.github.io/files/AAAI2018_HiTL_SLAM.pdf)]
 
