@@ -29,13 +29,13 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 <img align="left" width="200" src="https://samernashed.github.io/images/algcomp.png">&nbsp;&nbsp;&nbsp;&nbsp;*Formal Composition of Robotic Systems as Contract Programs.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Mason Nakamura](), [Justin Svegliato](), **Samer B. Nashed**, [Shlomo Zilberstein](), and [Stuart Russell]().<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/IROS2023_AlgComp.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IROS 2023. [[paper](https://samernashed.github.io/files/IROS2023_AlgComp.pdf)]<br>
 
 ## 2022
 
 <img align="left" width="200" src="https://samernashed.github.io/images/meta_PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep &nbsp;&nbsp;&nbsp;&nbsp;Reinforcement Learning.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, Justin Svegliato$^*$, Abhinav Bhatia, Stuart Russell and Shlomo Zilberstein.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/IROS2022_Meta_PAMDP.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IROS 2022. [[paper](https://samernashed.github.io/files/IROS2022_Meta_PAMDP.pdf)]<br>
 
 <p>&nbsp;</p>
 
@@ -49,13 +49,13 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 ***
 
 <img align="left" width="200" src="https://samernashed.github.io/images/OppMod.svg">&nbsp;&nbsp;&nbsp;&nbsp;*A survey of Opponent Modeling in Adversarial Domains.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Shlomo Zilberstein]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp; JAIR. [[paper](https://samernashed.github.io/files/JAIR2022_OppMod.pdf)]<br>
+
+<p>&nbsp;</p>
 
 ## 2021
 
@@ -70,7 +70,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 ***
 
 <img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Solving Markov Decision Processes with Partial State Abstractions.*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Justin Svegliato](), [Matteo Brucato](), [Connor Basich](), [Rod Grupen](), [Shlomo Zilberstein]().<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Justin Svegliato](), [Matteo Brucato](), [Connor Basich](), [Rod Grupen](), [Shlomo &nbsp;&nbsp;&nbsp;&nbsp;Zilberstein]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ICRA 2021. [[paper](https://samernashed.github.io/files/ICRA2021_PAMDP.pdf)]<br>
 
 ***
@@ -100,8 +100,6 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 <img align="left" width="200" src="https://samernashed.github.io/images/LuTU.png">&nbsp;&nbsp;&nbsp;&nbsp;*Localization under Topological Uncertainty for Lane Identification of Autonomous Vehicles.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [David M. Ilstrup](), [Joydeep Biswas]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ICRA 2018. [[paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf)]<br>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
