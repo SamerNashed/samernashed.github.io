@@ -15,7 +15,7 @@ author_profile: true
 
 ### Risk-informed Policy Learning
 
-<img align="left" width="200" src="https://samernashed.github.io/images/ripl.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at ICML, proposes augmenting the input to RL agents with a &nbsp;&nbsp;&nbsp;&nbsp;learned risk model. This risk model predicts, for a given state, a distribution over time to failure. &nbsp;&nbsp;&nbsp;&nbsp;We find RL agents additionally conditioned on this model learn significantly faster and with equal &nbsp;&nbsp;&nbsp;&nbsp;or fewer safety violations than those without. Moreover, this model can also be transferred &nbsp;&nbsp;&nbsp;&nbsp;between agents learning different tasks in the same environment.
+<img align="left" width="200" src="https://samernashed.github.io/images/ripl.png">&nbsp;&nbsp;&nbsp;&nbsp;This project, currently under review at ICML, proposes augmenting the input to RL agents with a &nbsp;&nbsp;&nbsp;&nbsp;learned risk model. This risk model predicts, for a given state, a distribution over time to failure. &nbsp;&nbsp;&nbsp;&nbsp;We find RL agents additionally conditioned on this model learn significantly faster and with &nbsp;&nbsp;&nbsp;&nbsp;equal or fewer safety violations than those without. Moreover, this model can also be &nbsp;&nbsp;&nbsp;&nbsp;transferred between agents learning different tasks in the same environment.
 
 <p>&nbsp;</p>
 
