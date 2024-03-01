@@ -33,7 +33,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ## 2022
 
-<img align="left" width="200" src="https://samernashed.github.io/images/meta_PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with &nbsp;&nbsp;&nbsp;&nbsp;Deep Reinforcement Learning.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/meta_PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep &nbsp;&nbsp;&nbsp;&nbsp;Reinforcement Learning.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, Justin Svegliato$^*$, Abhinav Bhatia, Stuart Russell and Shlomo Zilberstein.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/IROS2022_Meta_PAMDP.pdf)]<br>
 
@@ -43,9 +43,13 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ***
 
-<img align="left" width="200" src="https://samernashed.github.io/images/ICAPS_arch.png">&nbsp;&nbsp;&nbsp;&nbsp;*Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep Reinforcement Learning.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/ICAPS_arch.png">&nbsp;&nbsp;&nbsp;&nbsp;*Tuning the Hyperparameters of Anytime Planning: A Metareasoning Approach with Deep &nbsp;&nbsp;&nbsp;&nbsp;Reinforcement Learning.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Abhinav Bhatia](), [Justin Svegliato](), **Samer B. Nashed**, [Shlomo Zilberstein]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ICAPS 2022. [[paper](https://samernashed.github.io/files/ICAPS2022_ParamTune.pdf)]<br>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ***
 
@@ -65,13 +69,13 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ***
 
-<img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png"> *Solving Markov Decision Processes with Partial State Abstractions.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/PAMDP.png">&nbsp;&nbsp;&nbsp;&nbsp;*Solving Markov Decision Processes with Partial State Abstractions.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Justin Svegliato](), [Matteo Brucato](), [Connor Basich](), [Rod Grupen](), [Shlomo Zilberstein]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ICRA 2021. [[paper](https://samernashed.github.io/files/ICRA2021_PAMDP.pdf)]<br>
 
 ***
 
-<img align="left" width="200" src="https://samernashed.github.io/images/ECAS2.png"> *Ethically Complaint Planning within Moral Communities.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/ECAS2.png">&nbsp;&nbsp;&nbsp;&nbsp;*Ethically Complaint Planning within Moral Communities.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Justin Svegliato](), [Shlomo Zilberstein]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;AIES 2021. [[paper](https://samernashed.github.io/files/AIES2021_ECAS_MC.pdf)]<br>
 
@@ -96,6 +100,10 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 <img align="left" width="200" src="https://samernashed.github.io/images/LuTU.png">&nbsp;&nbsp;&nbsp;&nbsp;*Localization under Topological Uncertainty for Lane Identification of Autonomous Vehicles.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [David M. Ilstrup](), [Joydeep Biswas]().<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ICRA 2018. [[paper](https://samernashed.github.io/files/ICRA2018_LuTU.pdf)]<br>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ***
 
