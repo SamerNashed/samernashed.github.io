@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A more complete list of peer-reviewed publications is available on my [CV](https://samernashed.github.io/files/SamerNashedCV.pdf), and my Google Scholar [profile](https://scholar.google.com/citations?user=kACP4WMAAAAJ&hl=en).
+A more complete list of peer-reviewed publications is available on my [CV](https://samernashed.github.io/files/SamerNashedCV.pdf) and my Google Scholar [profile](https://scholar.google.com/citations?user=kACP4WMAAAAJ&hl=en).
 
 <!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -15,15 +15,15 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 ## 2024
 
-<img align="left" width="200" src="https://samernashed.github.io/images/HitL.png">&nbsp;&nbsp;&nbsp;&nbsp;*Choosing the Right Tool for the Job: Online Decision Making over SLAM Algorithms.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/BSPSLAM.png">&nbsp;&nbsp;&nbsp;&nbsp;*Choosing the Right Tool for the Job: Online Decision Making over SLAM Algorithms.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Rod Grupen](), [Shlomo Zilberstein]().<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2024. [[paper](https://samernashed.github.io/files/.pdf)]<br>
 
 ***
 
-<img align="left" width="200" src="https://samernashed.github.io/images/HitL.png">&nbsp;&nbsp;&nbsp;&nbsp;*Ethically Compliant Autonomous Systems under Partial Observability.*<br>
+<img align="left" width="200" src="https://samernashed.github.io/images/POECAS.png">&nbsp;&nbsp;&nbsp;&nbsp;*Ethically Compliant Autonomous Systems under Partial Observability.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Qingyuan Lu](), [Justin Svegliato](), **Samer B. Nashed**, [Shlomo Zilberstein](), and [Stuart Russell]().<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Venue. [[paper](https://samernashed.github.io/files/.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2024. [[paper](https://samernashed.github.io/files/.pdf)]<br>
 
 ## 2023
 
