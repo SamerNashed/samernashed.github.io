@@ -84,17 +84,21 @@ author:
   avatar: "headshot.jpg"
   # bio: "Email: samer [dot] nashed [at] mila [dot] quebec"
   email: " samer [dot] nashed [at] mila [dot] quebec"
-  semanticscholar: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
-  twitter: "sulin_blodgett"
+  googlescholar: "https://scholar.google.com/citations?user=kACP4WMAAAAJ&hl=en"
+  twitter: "nashed_samer" # https://twitter.com/
+  semanticscholar: "https://www.semanticscholar.org/author/Samer-B.-Nashed/5604387"
+  dblp: "https://dblp.org/pid/190/8623.html"
+  linkedin: "https://www.linkedin.com/in/samer-nashed-250a19a1/"
+  # orcid: 
   # links:
   #   - label: "samer [dot] nashed [at] mila [dot] quebec"
   #     icon: "fas fa-fw fa-envelope-square"
   #   - label: "Semantic Scholar"
   #     icon: "ai ai-google-scholar-square"
-  #     url: "https://www.semanticscholar.org/author/Su-Lin-Blodgett/3422038"
+  #     url: "https://www.semanticscholar.org/author/Samer-B.-Nashed/5604387"
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/sulin_blodgett"
+  #     url: "https://twitter.com/nashed_samer"
   #
 
 # Reading Files

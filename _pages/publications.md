@@ -53,7 +53,7 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 <img align="left" width="200" src="https://samernashed.github.io/images/OppMod.svg">&nbsp;&nbsp;&nbsp;&nbsp;*A survey of Opponent Modeling in Adversarial Domains.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Shlomo Zilberstein](https://www.cics.umass.edu/faculty/directory/zilberstein_shlomo).<br>
-&nbsp;&nbsp;&nbsp;&nbsp; JAIR. [[paper](https://samernashed.github.io/files/JAIR2022_OppMod.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;JAIR. [[paper](https://samernashed.github.io/files/JAIR2022_OppMod.pdf)]<br>
 
 <p>&nbsp;</p>
 
