@@ -14,7 +14,7 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 ## News
 
-**Jan. 2024:** Our [paper](https://samernashed.github.io/files/ICRA2024_ASPBASP.pdf) proposing Multi-SLAM systems was accepted to ICRA 2024!
+**Jan. 2024:** Our [paper](https://samernashed.github.io/files/ICRA2024_ASPBSP.pdf) proposing Multi-SLAM systems was accepted to ICRA 2024!
 
 **Jan. 2024:** Our [paper](https://samernashed.github.io/files/ICRA2024_POECAS.pdf) on Ethically Compliant Sequential Decision Making under Partial Observability was accepted to ICRA 2024!
 
