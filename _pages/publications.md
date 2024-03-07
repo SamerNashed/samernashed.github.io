@@ -17,13 +17,13 @@ A more complete list of peer-reviewed publications is available on my [CV](https
 
 <img align="left" width="200" src="https://samernashed.github.io/images/BSPSLAM.png">&nbsp;&nbsp;&nbsp;&nbsp;*Choosing the Right Tool for the Job: Online Decision Making over SLAM Algorithms.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Samer B. Nashed**, [Rod Grupen](https://www.cics.umass.edu/faculty/directory/grupen_roderic), [Shlomo Zilberstein](https://www.cics.umass.edu/faculty/directory/zilberstein_shlomo).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2024. [[paper](https://samernashed.github.io/files/.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2024. [[paper](https://samernashed.github.io/files/ICRA2024_ASPBSP.pdf)]<br>
 
 ***
 
 <img align="left" width="200" src="https://samernashed.github.io/images/POECAS.png">&nbsp;&nbsp;&nbsp;&nbsp;*Ethically Compliant Autonomous Systems under Partial Observability.*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Qingyuan Lu, [Justin Svegliato](https://justinsvegliato.com/), **Samer B. Nashed**, [Shlomo Zilberstein](https://www.cics.umass.edu/faculty/directory/zilberstein_shlomo), [Stuart Russell](https://people.eecs.berkeley.edu/~russell/).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2024. [[paper](https://samernashed.github.io/files/.pdf)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ICRA 2024. [[paper](https://samernashed.github.io/files/ICRA2024_POECAS.pdf)]<br>
 
 ## 2023
 
