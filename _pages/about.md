@@ -14,6 +14,12 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 ## News
 
+**June 2024** Our [workshop](TBD) on Building and Evaluating Ethical Robotic Systems was accepted at IROS 2024!
+
+**June 2024:** Our [workshop](TBD) on Retrospective and Future of World Representations for Lifelong Robotics was accepted at IROS 2024!
+
+**May 2024:** I will be attending a Dagstuhl Seminar on Explainable AI for Sequential Decision Making in September!
+
 **Jan. 2024:** Our [paper](https://samernashed.github.io/files/ICRA2024_ASPBSP.pdf) proposing Multi-SLAM systems was accepted to ICRA 2024!
 
 **Jan. 2024:** Our [paper](https://samernashed.github.io/files/ICRA2024_POECAS.pdf) on Ethically Compliant Sequential Decision Making under Partial Observability was accepted to ICRA 2024!
