@@ -14,9 +14,9 @@ Before joining REAL, I completed my Ph.D. in computer science at the [University
 
 ## News
 
-**June 2024** Our [workshop](TBD) on Building and Evaluating Ethical Robotic Systems was accepted at IROS 2024!
+**June 2024** Our [workshop](https://www.ers-workshop.com/) on Building and Evaluating Ethical Robotic Systems was accepted at IROS 2024!
 
-**June 2024:** Our [workshop](TBD) on Retrospective and Future of World Representations for Lifelong Robotics was accepted at IROS 2024!
+**June 2024:** Our [workshop](https://montrealrobotics.ca/test-of-time-workshop/) on Retrospective and Future of World Representations for Lifelong Robotics was accepted at IROS 2024!
 
 **May 2024:** I will be attending a Dagstuhl Seminar on Explainable AI for Sequential Decision Making in September!
 
